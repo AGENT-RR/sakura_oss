@@ -36,4 +36,4 @@ TARGET_USES_FACE_UNLOCK := true
 # Sakura
 TARGET_GAPPS_ARCH := arm64
 SAKURA_BUILD_TYPE := gapps
-SAKURA_MAINTAINER := Anurag Bhaumik(wckd12)
+SAKURA_MAINTAINER := Rahul(@Agent_RR)
